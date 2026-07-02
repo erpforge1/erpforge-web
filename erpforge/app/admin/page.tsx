@@ -111,7 +111,7 @@ export default function AdminPage() {
         {!user ? (
           <form onSubmit={handleLogin} className="max-w-xl rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur">
             <h2 className="text-2xl font-semibold">Access ERPForge workspace</h2>
-            <p className="mt-2 text-sm text-slate-400">Members can use member@erpforge.in / Member123! to submit pending review posts. Admins can use admin@erpforge.in / Admin123! or author@erpforge.in / Author123!.</p>
+            <p className="mt-2 text-sm text-slate-400">Members can use member@erpforge.in / Member123! to submit pending review posts.</p>
             <div className="mt-4 space-y-3">
               <input value={email} onChange={(event) => setEmail(event.target.value)} placeholder="Email" className="w-full rounded-xl border border-white/10 bg-slate-950/70 px-4 py-3 text-sm" />
               <input type="password" value={password} onChange={(event) => setPassword(event.target.value)} placeholder="Password" className="w-full rounded-xl border border-white/10 bg-slate-950/70 px-4 py-3 text-sm" />
