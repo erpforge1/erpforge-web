@@ -1,0 +1,17 @@
+[
+  {
+    "email": "admin@erpforge.in",
+    "password": "Admin123!",
+    "role": "ADMIN"
+  },
+  {
+    "email": "author@erpforge.in",
+    "password": "Author123!",
+    "role": "AUTHOR"
+  },
+  {
+    "email": "member@erpforge.in",
+    "password": "Member123!",
+    "role": "MEMBER"
+  }
+]

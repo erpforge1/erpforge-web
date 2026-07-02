@@ -1,0 +1,28 @@
+[
+  {
+    "id": "post-1",
+    "title": "Why SAP Developers Should Build a Personal Brand",
+    "slug": "why-sap-developers-should-build-a-personal-brand",
+    "content": "A strong personal brand helps SAP professionals stand out in interviews, consulting projects and community conversations. Share what you learn, build clarity around your point of view and stay consistent.",
+    "excerpt": "A practical guide to building influence and trust inside the SAP ecosystem.",
+    "category": "Career",
+    "authorEmail": "admin@erpforge.in",
+    "authorName": "ERPForge Team",
+    "status": "PUBLISHED",
+    "submittedAt": "2026-07-01T09:00:00.000Z",
+    "approvedAt": "2026-07-01T10:00:00.000Z",
+    "approvedBy": "admin@erpforge.in"
+  },
+  {
+    "id": "post-2",
+    "title": "How to Structure Your SAP Learning Roadmap",
+    "slug": "how-to-structure-your-sap-learning-roadmap",
+    "content": "The best SAP roadmap is practical and focused. Start with core ABAP, move into RAP and CDS, then deepen your understanding of OData, performance and integrations.",
+    "excerpt": "A roadmap that helps you build momentum from foundational ABAP to modern S/4HANA skills.",
+    "category": "Learning",
+    "authorEmail": "member@erpforge.in",
+    "authorName": "ERPForge Member",
+    "status": "PENDING_REVIEW",
+    "submittedAt": "2026-07-02T08:00:00.000Z"
+  }
+]
